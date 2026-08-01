@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/darksonic300) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/darksonic300) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/darksonic3000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fabiross096@gmail.com) 
+[![Bluesky](https://github.com/darksonic300/Sonics-Badges/blob/main/socials/bluesky/bluesky_cosy.svg)](https://bsky.app/profile/darksonic300) [![Discord](https://cdn.sqidgeon.uk/cozy/social/discord-singular_vector.svg)](https://discord.gg/darksonic300) [![Reddit](https://github.com/darksonic300/Sonics-Badges/blob/main/socials/reddit/reddit_cosy.svg)](https://reddit.com/user/darksonic3000) [![email](https://github.com/darksonic300/Sonics-Badges/blob/main/socials/gmail/gmail_cosy.svg)](mailto:fabiross096@gmail.com) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
